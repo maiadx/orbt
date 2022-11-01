@@ -110,7 +110,7 @@ public class Main implements Runnable {
 	
 	public void setup() {
 		//thread = new Thread( ,"secondary");
-		//thread.start();						// TODO: thread all ai and networking, and audio. have game engine run on separate thread. 
+		//thread.start();						
 		
 		
 	}
