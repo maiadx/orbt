@@ -20,7 +20,7 @@ import graphicsEngine.Display;
 
 public class Launcher extends JFrame {
 	
-	/* authors : J. Dox
+	/* author : Maia Doxtader
 	 * 
 	 */
 
