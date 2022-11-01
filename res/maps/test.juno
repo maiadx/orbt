@@ -1,0 +1,4 @@
+# test
+# raw	 texture   x y z rx ry rz scale
+asteroid ast-tex-1 -18 2 -3 2 1 0 2 
+asteroid ast-tex-1 31 2 -3 1 2 3 2
